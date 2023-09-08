@@ -1,2 +1,2 @@
-# hello-website
-a very simple website displaying Hello world!
+# hello-motherfucker
+a very simple website displaying Hello motherfucker!
